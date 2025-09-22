@@ -8,7 +8,7 @@ A simple and elegant Todo App built using **React.js** and styled with **Mantine
 
 | Dark Mode | Light Mode |
 | :----------------------------------------------------------: | :-----------------------------------------------------------: |
-| ![Dark Mode Preview](./path-to-your/dark-mode-image.png) | ![Light Mode Preview](./path-to-your/light-mode-image.png) |
+| ![Dark Mode Preview](./assets/dark-mode.png) | ![Light Mode Preview](./assets/light-mode.png) |
 
 ## ✨ Features
 
@@ -32,14 +32,15 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-You need to have [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) installed on your machine.
+You need to have [Node.js](https://nodejs.js.org/) and [npm](https://www.npmjs.com/) installed on your machine.
 
 ### Installation
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/mohammadraheem786/Trizen-Ventures-MERN-Stack-Intern-Assignment.git](https://github.com/mohammadraheem786/Trizen-Ventures-MERN-Stack-Intern-Assignment.git)
+    git clone [https://github.com/your-username/todo_react_app.git](https://github.com/your-username/todo_react_app.git)
     ```
+    (Replace `your-username` with your actual GitHub username)
 2.  **Navigate to the project directory:**
     ```sh
     cd todo_react_app
@@ -56,8 +57,8 @@ You need to have [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.c
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mohammadraheem786/Trizen-Ventures-MERN-Stack-Intern-Assignment.git).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/javascriptbear/todo_react_app/issues).
 
 ---
 
-Built with ❤️ by [Mohammad Raheem](https://github.com/mohammadraheem786/Trizen-Ventures-MERN-Stack-Intern-Assignment.git).
+Built with ❤️ by **[Mohammad Raheem](https://github.com/javascriptbear)**.
